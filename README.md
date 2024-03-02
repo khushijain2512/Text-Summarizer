@@ -1,1 +1,3 @@
-# Text-Summarizer
+# Text-Summarizer Project
+
+A text summarizer is a computational tool designed to condense lengthy pieces of text while retaining essential information. It employs various techniques, including natural language processing and machine learning algorithms, to identify key sentences or phrases that capture the main ideas of the original content. Text summarizers find applications in information retrieval, document analysis, and content summarization, providing users with concise and coherent summaries that save time and enhance comprehension by distilling the core content of a document. 
